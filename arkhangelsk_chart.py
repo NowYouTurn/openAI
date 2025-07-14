@@ -1,18 +1,18 @@
 from kerykeion import AstrologicalSubject, Report
 
 
-def main():
+def main() -> None:
     subject = AstrologicalSubject(
-        "Sample Person",
-        year=1990,
-        month=9,
-        day=15,
-        hour=13,
-        minute=30,
-        city="Taganrog",
+        "Рождение девушки в Архангельске",
+        year=1999,
+        month=1,
+        day=17,
+        hour=16,
+        minute=35,
+        city="Arkhangelsk",
         nation="RU",
-        lat=47.23627,
-        lng=38.9053,
+        lat=64.5401,
+        lng=40.5433,
         tz_str="Europe/Moscow",
     )
     report = Report(subject)

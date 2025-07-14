@@ -1,0 +1,6 @@
+2025-06-26	square	Ascendant	->	Venus	(орб=-0.001)
+2025-07-03	trine	Mars	->	Sun	(орб=0.250)
+2025-07-15	conjunction	Mercury	->	Mercury	(орб=-1.000)
+2025-08-20	sextile	Venus	->	Moon	(орб=0.300)
+2025-11-10	opposition	Jupiter	->	Saturn	(орб=-0.750)
+
